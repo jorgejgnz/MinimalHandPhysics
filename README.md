@@ -1,4 +1,4 @@
-# HPTK [![](https://img.shields.io/badge/unity-2019.4%20or%20later-green.svg)](https://unity3d.com/es/get-unity/download/archive) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jorgejgnz/MinimalHandPhysics/blob/master/LICENSE.md) [![](https://img.shields.io/twitter/follow/jorgejgnz.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=jorgejgnz)
+# Minimal Hand Physics [![](https://img.shields.io/badge/unity-2019.4%20or%20later-green.svg)](https://unity3d.com/es/get-unity/download/archive) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jorgejgnz/MinimalHandPhysics/blob/master/LICENSE.md) [![](https://img.shields.io/twitter/follow/jorgejgnz.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=jorgejgnz)
 
 Unity project containing the minimal code required to perform friction-based grabbing in VR (Oculus Quest)
 
