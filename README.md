@@ -3,10 +3,10 @@
 Unity project containing the minimal code required to perform friction-based grabbing in VR (Oculus Quest)
 
 ## Main features
-- Manual rig mapping
 - Updating of master hand bone transforms from OVRSkeleton
-- Updating of slave's joints positions and rotations to match slave hand
+- Updating of target positions/rotations of slave hand joints to match master
 - Two small demo scenes
+- Manual rig mapping
 
 # Supported versions
 - Unity 2019.4.4f1 LTS
