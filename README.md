@@ -3,8 +3,9 @@
 Unity project containing the minimal code required to perform friction-based grabbing in VR (Oculus Quest)
 
 ## Main features
-- Updating of master hand bone transforms from OVRSkeleton
-- Updating of target positions/rotations of slave hand joints to match master
+- Master hand bones transformations read from OVRSkeleton
+- Target rotations of slave hand joints updated to match the master's rotations
+- Target position of slave wrist joint updated to match master's wrist position
 - Two small demo scenes
 - Manual rig mapping
 
